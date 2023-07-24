@@ -1,0 +1,33 @@
+body {
+    width: 100 vw;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24px;
+    background: #1f1f1f;
+    color: white;
+    width: 50%;
+    border-radius: 8px;
+    padding: 12px;
+    gap: 4px;
+}
+
+.botao {
+    background: yellow;
+    border: 1px solid transparent;
+    width: 180px;
+    
+}
+input{
+    width: 180px;   
+}
